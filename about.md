@@ -8,10 +8,10 @@ My name's Mauro Cendón. I'm a web developer from Buenos Aires, Argentina. I stu
 
 ### More Information and projects
 
-I'm a music lover, guitar, piano and music producer. You can find me at [Soundcloud](https://www.soundcloud.com/maurocendon).
+I'm a music lover, guitar, piano and music producer. You can listen me on [Soundcloud](https://www.soundcloud.com/maurocendon).
 Also i love illusionism and social dynamics studies.
 
-Currently i'm working in a own project called [Diplofy](https://www.diplofy.com)
+Currently i'm working on my own project: [Diplofy](https://www.diplofy.com)
 ### Contact me
 
 [mau.cendon@gmail.com](mailto:mau.cendon@gmail.com)
