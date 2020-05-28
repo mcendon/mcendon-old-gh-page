@@ -7,6 +7,7 @@
 
 @import "reset";
 @import "variables";
+@import "flexbox";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -281,6 +282,17 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.centered-img {
+  @include flexbox;
+  @include justify-content(center);
+}
+
+.about-profile-img {
+  img {
+    border-radius: 50%;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
