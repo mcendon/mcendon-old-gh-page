@@ -27,10 +27,11 @@
     display: block;
     line-height: 1;
     color: #FFF;
-    width: $cut;
+    width: 100%;
     @media only screen and (min-width:$cut){
       margin: 0;
       font-size: 60px;
+      min-width: 200vh;
     }
   }
   .site-description {
